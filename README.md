@@ -1,6 +1,6 @@
-# Data-ANZ-Virtual-Internship
+# Data-ANZ-Virtual-Experience
 
-This was a virtual internship experience offered by ANZ through InsideSherpa as part of their Data@ANZ program, which provides some insights into the sort of work the data science team at ANZ do. I completed both modules:
+This was a virtual experience offered by ANZ through InsideSherpa as part of their Data@ANZ program, which provides some insights into the sort of work the data science team at ANZ do. I completed both modules:
 
 - Exploratory Data Analysis: I provided some preliminary descriptive statistics and segmented the data set by date and account, visualising transaction volume and spending and assessing the effect of outliers.
 
